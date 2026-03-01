@@ -1,5 +1,5 @@
 # Black and white theme for rofi
-This is pure and simple theme for your rofi
+This is pure and simple theme for your rofi in black and white style. It has got some transparency effects? which you can regulate on .rasi files of rofi's config. Blur, transparensy and other effects not dependent on hyprland's config.
 
 ## Features
 * Darkened transparent background
