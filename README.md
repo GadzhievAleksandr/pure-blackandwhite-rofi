@@ -20,6 +20,7 @@ This is pure and simple theme for your rofi in black and white style. It has got
 git clone https://github.com/RomanLivik/pure-blackandwhite-rofi
 cd .config
 mkdir rofi
+cd
 cd pure-blackandwhite-rofi
 cp config.rasi ~/.config/rofi
 cp blackwiterofi.rasi ~/.config/rofi
