@@ -10,6 +10,7 @@ This is pure and simple theme for your rofi in black and white style. It has got
 * Rofi
 * Distro with hyprland
 
+> [!IMPORTANT]
 > I don't know about efficiency of this on BSPW, I3-WM or other WM.
 
 ## Screenshot
