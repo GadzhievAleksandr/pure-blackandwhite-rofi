@@ -18,7 +18,7 @@ This is pure and simple theme for your rofi in black and white style. It has got
 
 ## Installation
 ```
-git clone https://github.com/GadzhievAleksandr/pure-blackandwhite-rofi
+https://github.com/S0LYER/pure-blackandwhite-rofi
 cd .config
 mkdir rofi
 cd
